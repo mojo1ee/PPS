@@ -1,5 +1,5 @@
 #118. Pascal's Triangle (LeetCode)
-
+#https://leetcode.com/problems/pascals-triangle/
 
 class Solution(object):
     def generate(self, numRows):
